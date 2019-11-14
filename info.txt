@@ -2,3 +2,4 @@ Info
 Nu ändrar jag i filen!
 
 En liten ändring till.
+Detta är en ändring som måste "mergas"
