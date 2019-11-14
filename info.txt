@@ -2,3 +2,8 @@ Info
 Nu ändrar jag i filen!
 
 En liten ändring till.
+
+
+
+// Här lägger jag till ny kod!
+sjfksjfsklfjsdklfjsdkfjsklfjsdklfjldskj
