@@ -1,5 +1,5 @@
 Här kommer lite text.
-Ny text på rad2
+Ny text på rad2 -- med tillägg
 
 
 Och här kommer ännu mer.
@@ -11,7 +11,7 @@ Lite text på rad 10
 
 Och lite till.
 Online text på rad 13
-
+Lokal text på rad 14
 
 
 
