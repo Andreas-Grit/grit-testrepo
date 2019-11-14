@@ -3,3 +3,8 @@ Nu ändrar jag i filen!
 
 En liten ändring till.
 Detta är en ändring som måste "mergas"
+
+
+
+// Här lägger jag till ny kod!
+sjfksjfsklfjsdklfjsdkfjsklfjsdklfjldskj
